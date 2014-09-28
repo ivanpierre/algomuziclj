@@ -1,6 +1,6 @@
 (defproject algomuziclj "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "Algorithmic music composition"
+  :url "https://github.com/clojurecup2014/algomuziclj"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]
