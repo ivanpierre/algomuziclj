@@ -21,5 +21,5 @@ Well, we go. I think it will be very short.... still don't know how to handle it
 
 And we give up... We'll continue, but probably first in Clojure...
 
-Good luck for all ClojureCupers ;)
+<h4>Good luck for all ClojureCupers, thanks a lot for the ClojureCup staff ;)</h4>
 

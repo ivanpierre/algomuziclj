@@ -9,5 +9,6 @@
 <p>Melodic movement of all voices will be created randomly according to counterpoint rules.
 <h2>Coding</h2>
 <p>Well, we go. I think it will be very short.... still don't know how to handle it, it will come as code flows...
-<p>And we give up... We'll continue, but probably first in Clojure...")
+<p>And we give up... We'll continue, but probably first in Clojure...
+<h3>Good luck for all ClojureCupers, thanks a lot for the ClojureCup staff ;)</h3>")
 
