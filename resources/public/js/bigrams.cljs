@@ -372,7 +372,7 @@
       :sixte5  3
       :sixte   4
       :sixte3  5
-      :sixqua  6
+      :sixqua     6
       :maj     7
       :min     8
       :dim     9

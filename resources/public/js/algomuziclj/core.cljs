@@ -1,4 +1,4 @@
 (ns algomuziclj.core)
 
-(.write js/document "Hello!")
+(.write js/document "Hallo!")
 

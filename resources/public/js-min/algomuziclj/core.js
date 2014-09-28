@@ -2,5 +2,3 @@
 goog.provide('algomuziclj.core');
 goog.require('cljs.core');
 document.write("Hallo!");
-
-//# sourceMappingURL=core.js.map
