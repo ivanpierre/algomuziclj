@@ -12,7 +12,7 @@
      :fond
      [
       2  (:II :fond)
-      4  (:II :sixth#)
+      4  (:II :sixthmaj)
       0  (:II :fond5)
       3  (:II :sixth5)
       3  (:II :sixth3)
@@ -34,7 +34,7 @@
       4  (:V :min)
       2  (:V :dim)
       3  (:VI :fond)
-      1  (:VI :sixth#)
+      1  (:VI :sixthmaj)
       3  (:VI :sixth5)
       3  (:VI :sixth)
       2  (:VI :sixth3)
@@ -57,7 +57,7 @@
       6  (:V :sixth)
       6  (:V :sixqua)
       6  (:V :min)
-      5  (:VI :sixth#)
+      5  (:VI :sixthmaj)
       5  (:VI :sixth5)
       5  (:VI :sixth)
       3  (:VII :sixth5)
@@ -85,7 +85,7 @@
      :sixth
      [
       10 (:II :fond)
-      9  (:II :sixth#)
+      9  (:II :sixthmaj)
       7  (:IV :fond)
       8  (:IV :fond5)
       7  (:IV :min)
@@ -122,7 +122,7 @@
      :min
      [
       3  (:II :fond)
-      3  (:II :sixth#)
+      3  (:II :sixthmaj)
       3  (:II :sixth5)
       3  (:II :sixth3)
       3  (:II :maj)
@@ -143,7 +143,7 @@
       25 (:II :fond)
       25 (:II :maj)
       25 (:V :sixqua)
-      25 (:VI :sixth#)
+      25 (:VI :sixthmaj)
       ]
      }
 
@@ -170,7 +170,7 @@
       9  (:V :min)
       9  (:V :dim)
       2  (:VI :fond)
-      2  (:VI :sixth#)
+      2  (:VI :sixthmaj)
       2  (:VI :fond5)
       2  (:VI :sixth5)
       2  (:VI :sixth)
@@ -179,7 +179,7 @@
       3  (:VII :sixth3)
       ]
 
-     :sixth#
+     :sixthmaj
      [
       49 (:V :fond)
       30 (:V :fond5)
@@ -233,7 +233,7 @@
       3  (:I :sixqua)
       3  (:I :dim)
       4  (:III :fond)
-      4  (:III :sixth#)
+      4  (:III :sixthmaj)
       3  (:III :maj)
       2  (:IV :sixth3)
       2  (:IV :min)
@@ -246,7 +246,7 @@
 
      :sixqua
      [
-      99 (:III :sixth#)
+      99 (:III :sixthmaj)
       ]
 
      :maj
@@ -269,10 +269,10 @@
      [
       3  (:I :sixth5)
       2  (:I :dim)
-      7  (:II :sixth#)
+      7  (:II :sixthmaj)
       1  (:IV :dim)
       14 (:V :fond)
-      14 (:V :sixth#)
+      14 (:V :sixthmaj)
       14 (:V :fond5)
       14 (:V :sixth5)
       14 (:V :sixth)
@@ -281,7 +281,7 @@
       1  (:VII :sixth5)
       ]
 
-     :sixth#
+     :sixthmaj
      [
       33 (:VI :fond)
       33 (:VI :fond5)
@@ -299,13 +299,13 @@
 
      :maj
      [
-      1  (:II :sixth#)
+      1  (:II :sixthmaj)
       1  (:II :fond5)
       1  (:II :sixth5)
       2  (:II :sixth)
       1  (:IV :dim)
       15 (:VI :fond)
-      15 (:VI :sixth#)
+      15 (:VI :sixthmaj)
       15 (:VI :sixth5)
       15 (:VI :sixth)
       16 (:VI :sixth3)
@@ -332,7 +332,7 @@
       2  (:II :sixth)
       4  (:II :sixth3)
       1  (:II :maj)
-      1  (:III :sixth#)
+      1  (:III :sixthmaj)
       6  (:IV :fond)
       7  (:IV :fond5)
       6  (:IV :sixth5)
@@ -354,7 +354,7 @@
       12 (:I :sixth)
       12 (:I :sixqua)
       12 (:I :min)
-      10 (:II :sixth#)
+      10 (:II :sixthmaj)
       10 (:II :sixth)
       19 (:IV :dim)
       ]
@@ -377,10 +377,35 @@
       1  (:VII :fond5)
       ]
 
+     :sixth
+     [
+      13 (:I :fond)
+      13 (:I :sixqua)
+      13 (:I :min)
+      7  (:II :fond)
+      10 (:II :sixth3)
+      16 (:V :fond)
+      18 (:V :sixth5)
+      7  (:V :dim)
+      2  (:VII :fond5)
+      ]
+
+     :sixth3
+     [
+      00 (:I :fond)
+      29 (:I :min)
+      40 (:II :fond)
+      44 (:II :sixthmaj)
+      47 (:II :sixth)
+      50 (:II :sixth3)
+      53 (:II :maj)
+      56 (:VI :maj)
+      ]
+
      :types
      {
       :fond    0
-      :sixth#  1
+      :sixthmaj  1
       :fond5   2
       :sixth5  3
       :sixth   4
@@ -390,16 +415,6 @@
       :min     8
       :dim     9
       }
-
-     :sixth
-     [
-      00 (:fond :fond)
-      ]
-
-     :sixth3
-     [
-      00 (:fond :fond)
-      ]
 
      :sixqua
      [
