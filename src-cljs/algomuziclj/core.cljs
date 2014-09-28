@@ -10,9 +10,9 @@
 
 <p>Generate chords suite according to a bigram table with statistical probabilities. It ease the problem of harmony rules to deal with. It would have been a better way, but well 36 hours of hammock is perhaps a little long and I would have used some days more :D
 
-<p>This will give the bass moves. The other voices will have their note shoosen randomly according to some exception rules.
+<p>This will give the bass moves. The other voices will have their notes shoosen randomly according to some exception rules.
 
-<p>Melodic movement of all voices will be created randomly according co counterpoint rules.
+<p>Melodic movement of all voices will be created randomly according to counterpoint rules.
 
 <h2>Coding</h2>
 
