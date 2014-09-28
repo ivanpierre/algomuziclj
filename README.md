@@ -3,6 +3,8 @@ AlgoMuziClj
 
 Algorithmic music composition CLJS version
 
+This is part of the ClojureCup 2014 : http://algomuziclj.clojurecup.com/
+
 Steps
 =====
 
